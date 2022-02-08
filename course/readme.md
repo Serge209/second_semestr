@@ -41,5 +41,12 @@ P.S Пока без картинок, т.к не было архива с кар
 
 ![image](https://user-images.githubusercontent.com/80594181/152972889-0ed66ee8-2881-4985-9826-e8b0ad28334d.png)
 
+![image](https://user-images.githubusercontent.com/80594181/152981531-1517d236-5125-43e6-92d7-66ff987715ab.png)
+Страница контактов
+
+![image](https://user-images.githubusercontent.com/80594181/152981620-6aac8cce-37f2-43c8-902c-d9bac942d04d.png)
+
+Страница блога
+
 
 
