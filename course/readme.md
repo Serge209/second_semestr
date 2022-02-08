@@ -35,6 +35,8 @@ P.S Пока без картинок, т.к не было архива с кар
 ![image](https://user-images.githubusercontent.com/80594181/152308547-badc7a67-cce6-48ed-8b49-39a1a3bcfb01.png)
 
 ![image](https://user-images.githubusercontent.com/80594181/152310303-a38ae775-b6c0-49e1-a5bd-39bbcd566504.png)
+![image](https://user-images.githubusercontent.com/80594181/152930525-03815059-d66d-48c6-99a7-90d8353a1234.png)
+
 
 
 
