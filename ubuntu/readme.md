@@ -1,3 +1,12 @@
+# Защита 5го задания
+1. Что такое мьютекс? штука котрая обеспечивает взаимное исключенме исполнение критического участка кода
+3. Какая база данных используется? Postgre SQL
+4. Как к ней подключиться? ./pg_start - запустили сервер. def get_connection():
+    return ps.connect(dbname=DB_NAME, user=DB_USER,
+                    password=DB_PASSWORD, host=DB_HOST, options=OPTS)
+5. Запрос данных из БД на SQL f'SELECT * FROM ticket_flights_tmp WHERE id={pos}'
+6. Что является общим ресурсом? таблица с данными 
+
 ![image](https://user-images.githubusercontent.com/80594181/149718115-a324919b-3fb5-4390-9bae-f6c48e88305d.png)
 
 ![image](https://user-images.githubusercontent.com/80594181/149730783-c4eccdd9-9fa9-454f-967b-3144b25b3237.png)
