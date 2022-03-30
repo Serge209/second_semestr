@@ -93,5 +93,6 @@ iPavlov создали библиотеку с открытым исходным
 Никто не пишет нейросети с нуля, обычно используются уже готовые библиотеки.
 
 
-![image](https://user-images.githubusercontent.com/80594181/160786599-b2a51bd5-21d5-4a61-9d8a-4301e34ab2e0.png)
+![image](https://user-images.githubusercontent.com/80594181/160786801-a37053f0-58cb-4f8b-b2a9-bf715727c638.png)
+
 
